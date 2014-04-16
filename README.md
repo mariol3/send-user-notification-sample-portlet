@@ -1,0 +1,1 @@
+Sample application to show how to use Notifications API in Liferay for custom notifications.
